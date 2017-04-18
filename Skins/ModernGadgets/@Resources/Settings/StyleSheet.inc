@@ -3,7 +3,7 @@
 [Variables]
 ; General positioning and background
 bgOffset=6
-bgWidth=160
+bgWidth=220
 bgWidthAbs=(#bgWidth# + (#bgOffset# * 2))
 mgVersion=1.2.0-beta.3
 
@@ -22,7 +22,7 @@ labelOffset=53
 
 ; Font options
 fontFace=Roboto
-fontSize=8
+fontSize=10
 
 ; Colors
 colorBg=0,0,0,255
