@@ -6,7 +6,7 @@ ttSoundPath=D:\Files\Settings\Caleb\Rainmeter\Skins\ModernGadgets\@Resources\Ass
 
 ; Set automatically - don't bother changing (they will just change back)
 cpuName=auto
-threadCount=8
+threadCount=4
 
 ; Fixed precision format
 fpfRamDepth=4
